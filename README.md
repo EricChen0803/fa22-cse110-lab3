@@ -1,2 +1,2 @@
 # Lab 2 - Starter
-https://ericchen0803.github.io/110Lab2/
+https://ericchen0803.github.io/fa22-cse110-lab3/
