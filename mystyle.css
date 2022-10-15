@@ -67,3 +67,33 @@ body {
         background-color: pink;
     }
 }  
+#nnn{
+    background-color: darkorchid;
+}
+div * {
+    background-color: yellow;
+}
+button[type]{
+    background-color: darkturquoise;
+}
+button:hover {
+    font-size: large;
+}
+:is(h3, h4){
+    line-height: 3cm;
+}
+section div{
+    font:italic;
+}
+footer > div {
+    letter-spacing: 5mm;
+}
+div ~ p{
+    letter-spacing: 10mm;
+}
+h3 + h4{
+    background-color: green;
+}
+div.fc{
+    color: red;
+}
